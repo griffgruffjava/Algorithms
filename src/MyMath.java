@@ -5,7 +5,7 @@ public class MyMath {
 	public static double maxNum(double a,double b,double c)
 	{
 		double nums[] = {a,b,c};
-		
+		// test
 		double max = nums[0];
 		
 		for(int i=1;i<3;i++)
